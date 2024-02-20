@@ -1,4 +1,4 @@
-/*let btn = document.querySelector(".btn")
+let btn = document.querySelector(".btn")
 let full_name = document.querySelector(".name")
 let email = document.querySelector(".email")
 let password = document.querySelector(".password")
@@ -48,8 +48,8 @@ btn.addEventListener("click",(e)=>{
         }
     }
 }
-)*/
-let input = document.querySelector(".input")
+)
+/*let input = document.querySelector(".input")
 let btn = document.querySelector(".btn")
 let main = document.querySelector(".main")
 let arr = []
@@ -64,4 +64,4 @@ let ele = () => {
     main.appendChild(li)
 }
 )
-}
+}*/
